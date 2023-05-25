@@ -5,8 +5,8 @@ Hello I'm Gabriel Zmijevski  <img src="https://media.giphy.com/media/12oufCB0MyZ
 
 <div>
   <a href="https://github.com/GZmijevski">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gzmijevski&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzmijevski&layout=compact&langs_count=16&theme=tokyonight"/>
+   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Gzmijevski&show_icons=true&theme=tokyonight"/>
+   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzmijevski&layout=compact&langs_count=16&theme=tokyonight"/>
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
